@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FocusClient</string>
+    <string name="accessibility_service_description">This service is needed to detect which app is currently running in order to block distracting apps during your focus sessions.</string>
+</resources>
